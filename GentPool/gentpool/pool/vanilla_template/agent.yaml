@@ -6,7 +6,7 @@ description: A plain gpt-4 LLM.
 target_tasks:
   - anything to do with an LLM
 llm:
-  model_name: gpt-4
+  model_name: gpt-4o-mini
   params:
     temperature: 0.0
     top_p: 0.9
