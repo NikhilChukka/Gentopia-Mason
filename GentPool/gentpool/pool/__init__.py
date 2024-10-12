@@ -11,3 +11,4 @@ from .vanilla-ziyu import *
 from .scholar-ziyu import *
 from .agent1 import *
 from .gs1 import *
+from .agenttest import *
